@@ -1,0 +1,59 @@
+/* Home.module.css */
+
+.container {
+  display: flex;
+  flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .title {
+  font-style: italic;
+    margin-bottom: 20px;
+    color: #ff9604;
+  }
+
+  .heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #110d08;
+  }
+  
+  .inputWrapper {
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #6c6c63;
+    color:  #ff9604;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .bookList {
+    margin-top: 20px;
+  }
+  
+  .bookItem {
+    margin-bottom: 10px;
+  }
+  
+  .bookTitle {
+    font-weight: bold;
+  }
+  
+  .bookDetails {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #666;
+  }
+  
