@@ -7,7 +7,7 @@ My Little Bookstore is a web application designed to simulate an online bookstor
 ## Installation
 
 To run the My Little Bookstore app locally, follow these steps:
-1. Clone the repository from GitHub: `git clone https://github.com/your/repository.git`
+1. Clone the repository from GitHub: `git clone git@github.com:olga-kacala/MyLittleLibrary.git`
 2. Navigate to the project directory: `cd my-little-bookstore`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
